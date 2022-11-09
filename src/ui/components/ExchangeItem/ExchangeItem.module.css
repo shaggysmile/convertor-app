@@ -1,0 +1,15 @@
+.item {
+  line-height: 1.2;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 0.5rem;
+}
+
+.from {
+  font-size: 2.5rem;
+}
+
+.to {
+  color: #628991;
+}
