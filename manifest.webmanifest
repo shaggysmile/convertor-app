@@ -1,1 +1,1 @@
-{"name":"convertor","short_name":"convertor","start_url":"/convertor-app/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/convertor-app/"}
+{"name":"Convertor App","short_name":"ConvertorApp","start_url":"/convertor-app/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/convertor-app/","description":"Convert rub to usd","theme_color":"#242424"}
